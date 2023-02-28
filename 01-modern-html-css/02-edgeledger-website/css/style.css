@@ -137,3 +137,36 @@ img {
 .team img {
   border-radius: 50%;
 }
+
+/* Callback form */
+.callback-form {
+  width: 100%;
+  padding: 20px 0;
+}
+
+.callback-form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.callback-form .form-control {
+  margin-bottom: 15px;
+}
+
+.callback-form input {
+  width: 100%;
+  padding: 4px;
+  height: 40px;
+  border: 1px solid #f5f5f5;
+  border-radius: 5px;
+}
+
+.callback-form input:focus {
+  outline-color: #28a745;
+}
+
+.callback-form .btn {
+  font-family: inherit;
+  font-size: inherit;
+  margin-top: 20px;
+}

@@ -4,7 +4,7 @@ In this course I learned how to build basic responsive websites and user interfa
 
 ### Table of course projects
 
-| Num | Projects             | Link                                                                                                            |
+| Num | Projects             | Demo                                                                                                            |
 | --- | -------------------- | --------------------------------------------------------------------------------------------------------------- |
 | 01  | Hotel Website        | [Project Demo](https://kayyrbeks.github.io/udemy-courses/01-modern-html-css/01-hotel-website/index.html)        |
 | 02  | EdgeLedger Website   | [Project Demo](https://kayyrbeks.github.io/udemy-courses/01-modern-html-css/02-edgeledger-website/index.html)   |

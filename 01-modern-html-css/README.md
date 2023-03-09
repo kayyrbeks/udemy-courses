@@ -1,16 +1,30 @@
 # Modern HTML & CSS From The Beginning (Including Sass)
 
-In this course I learned how to build basic responsive websites and user interfaces with modern HTML5 and CSS3 + technologies like Flexbox and CSS Grid as well as the Sass pre-compiler.
+Course for beginner developer.
 
-### Table of course projects
+## List of contents
 
-| Num | Projects             | Demo                                                                                                            |
-| --- | -------------------- | --------------------------------------------------------------------------------------------------------------- |
-| 01  | Hotel Website        | [Project Demo](https://kayyrbeks.github.io/udemy-courses/01-modern-html-css/01-hotel-website/index.html)        |
-| 02  | EdgeLedger Website   | [Project Demo](https://kayyrbeks.github.io/udemy-courses/01-modern-html-css/02-edgeledger-website/index.html)   |
-| 03  | Presentation Website | [Project Demo](https://kayyrbeks.github.io/udemy-courses/01-modern-html-css/03-presentation-website/index.html) |
-| 04  | Hamburger Menu       | [Project Demo](#)                                                                                               |
-| 05  | Knowledge Timeline   | [Project Demo](#)                                                                                               |
-| 06  | Quick Dropdown Menu  | [Project Demo](#)                                                                                               |
-| 07  | Newsgrid Website     | [Project Demo](#)                                                                                               |
-| 08  | Portfolio Website    | [Project Demo](#)                                                                                               |
+- [Table Of Course Projects](#table-of-course-projects)
+- [What I Learned](#what-i-learned)
+- [Certificate Of Completion](#certificate-of-completion)
+
+### Table Of Course Projects
+
+| Num | Projects             | Stack              | Demo                                                                                                            |
+| --- | -------------------- | ------------------ | --------------------------------------------------------------------------------------------------------------- |
+| 01  | Hotel Website        | HTML, CSS, Foat    | [Project Demo](https://kayyrbeks.github.io/udemy-courses/01-modern-html-css/01-hotel-website/index.html)        |
+| 02  | EdgeLedger Website   | HTML, CSS, Flexbox | [Project Demo](https://kayyrbeks.github.io/udemy-courses/01-modern-html-css/02-edgeledger-website/index.html)   |
+| 03  | Presentation Website | HTML, CSS, Flexbox | [Project Demo](https://kayyrbeks.github.io/udemy-courses/01-modern-html-css/03-presentation-website/index.html) |
+| 04  | Hamburger Menu       | HTML, CSS, ...     | [Project Demo](#)                                                                                               |
+| 05  | Knowledge Timeline   | HTML, CSS, ...     | [Project Demo](#)                                                                                               |
+| 06  | Quick Dropdown Menu  | HTML, CSS, ...     | [Project Demo](#)                                                                                               |
+| 07  | Newsgrid Website     | HTML, CSS, ...     | [Project Demo](#)                                                                                               |
+| 08  | Portfolio Website    | HTML, CSS, ...     | [Project Demo](#)                                                                                               |
+
+### What I Learned
+
+Build basic responsive websites and user interfaces with HTML5 and CSS3 + technologies like Flexbox and CSS Grid as well as the Sass pre-compiler. I think this course for beginner developer is good.
+
+## Certificate Of Completion
+
+Finally I complete this course [Certificate](#).

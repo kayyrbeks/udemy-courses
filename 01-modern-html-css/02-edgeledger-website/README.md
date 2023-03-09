@@ -15,4 +15,4 @@ The second project for learning HTML & CSS. [Project Demo](https://kayyrbeks.git
 
 - HTML5 markup;
 - CSS custom properties;
-- Float.
+- Flexbox.

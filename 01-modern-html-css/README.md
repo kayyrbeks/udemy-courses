@@ -1,6 +1,10 @@
 # Modern HTML & CSS From The Beginning (Including Sass)
 
 Course for beginner developer.
+**Course total:**
+
+- Lectures: 129
+- Video: 21 total hours
 
 ## List of contents
 
@@ -23,7 +27,7 @@ Course for beginner developer.
 
 ### What I Learned
 
-Build basic responsive websites and user interfaces with HTML5 and CSS3 + technologies like Flexbox and CSS Grid as well as the Sass pre-compiler. I think this course for beginner developer is good.
+Build basic responsive websites and user interfaces with HTML5 and CSS3 + technologies like Flexbox and CSS Grid as well as the Sass pre-compiler (very short). I think this course for beginner developers is not bad.
 
 ## Certificate Of Completion
 

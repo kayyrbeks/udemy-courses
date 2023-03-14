@@ -22,7 +22,7 @@ Course for beginner developer.
 | 03  | Presentation Website | HTML, CSS, Flexbox            | [Project Demo](https://kayyrbeks.github.io/udemy-courses/01-modern-html-css/03-presentation-website/index.html) |
 | 04  | Hamburger Menu       | HTML, CSS, Flexbox            | [Project Demo](https://kayyrbeks.github.io/udemy-courses/01-modern-html-css/04-hamburger-menu/index.html)       |
 | 05  | Knowledge Timeline   | HTML, CSS, JS (not explained) | [Project Demo](https://kayyrbeks.github.io/udemy-courses/01-modern-html-css/05-knowledge-timeline/index.html)   |
-| 06  | Quick Dropdown Menu  | HTML, CSS, ...                | [Project Demo](#)                                                                                               |
+| 06  | Quick Dropdown Menu  | HTML, CSS, Float, Flexbox     | [Project Demo](https://kayyrbeks.github.io/udemy-courses/01-modern-html-css/06-quick-dropdown-menu/index.html)  |
 | 07  | Newsgrid Website     | HTML, CSS, ...                | [Project Demo](#)                                                                                               |
 | 08  | Portfolio Website    | HTML, CSS, ...                | [Project Demo](#)                                                                                               |
 

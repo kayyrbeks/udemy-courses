@@ -1,4 +1,4 @@
-## Knowledge Timeline mini projects
+## Knowledge Timeline mini project
 
 The next mini project for learning HTML & CSS. [Project Demo](https://kayyrbeks.github.io/udemy-courses/01-modern-html-css/05-knowledge-timeline/index.html)
 

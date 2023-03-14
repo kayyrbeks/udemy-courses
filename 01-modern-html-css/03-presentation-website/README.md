@@ -1,4 +1,4 @@
-## Presentation Website mini projects
+## Presentation Website mini project
 
 The third mini project for learning HTML & CSS. [Project Demo](https://kayyrbeks.github.io/udemy-courses/01-modern-html-css/03-presentation-website/index.html)
 

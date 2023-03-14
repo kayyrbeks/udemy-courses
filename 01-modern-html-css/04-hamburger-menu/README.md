@@ -1,4 +1,4 @@
-## Hamburger Menu mini projects
+## Hamburger Menu mini project
 
 The next mini project for learning HTML & CSS. [Project Demo](https://kayyrbeks.github.io/udemy-courses/01-modern-html-css/04-hamburger-menu/index.html)
 

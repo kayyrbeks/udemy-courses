@@ -1,6 +1,7 @@
 # Modern HTML & CSS From The Beginning (Including Sass)
 
 Course for beginner developer.
+
 **Course total:**
 
 - Lectures: 129
